@@ -6,3 +6,4 @@ cmake ..
 make
 ./TaskTracker
 ```
+чисто ручки размять
